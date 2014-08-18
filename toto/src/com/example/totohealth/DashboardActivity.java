@@ -2,7 +2,7 @@ package com.example.totohealth;
 
 
 
-import android.R;
+import com.example.totohealth.R;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;

@@ -6,7 +6,8 @@ import library.UserFunctions;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import android.R;
+
+import com.example.totohealth.R;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
